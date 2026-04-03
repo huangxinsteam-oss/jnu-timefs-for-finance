@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: jnu-timefs-for-finance
+Version: 0.1.0
+Summary: A financial data analysis project based on TimeFS
+Requires-Python: >=3.10
+Provides-Extra: dev
+License-File: LICENSE
